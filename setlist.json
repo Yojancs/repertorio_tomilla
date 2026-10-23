@@ -1,0 +1,733 @@
+{
+  "version": 2,
+  "exportedAt": 1792767018379,
+  "songs": [
+    {
+      "title": "EL DIOS QUE ADORAMOS",
+      "artist": "Sovering Grace",
+      "key": "F#",
+      "bpm": 110,
+      "transposition": 0,
+      "tags": [],
+      "content": "{bpm: 110}\n{key: F#}\n{artist: Sovering Grace}\n{title: EL DIOS QUE ADORAMOS}\n\nEL DIOS QUE ADORAMOS\n\n[INTRO]\n[F#] [C#] [D#m] [B] [F#] [C#]\nV[F#]ERS[C#]O 1 El Dios que hizo los cielos y la tierra\n[D#m]Con [B]el poder de Su palabra, Reina con autoridad\nE[F#]l D[C#]ios que aún los vientos le obedecen\nU[D#m]na p[B]alabra es suficiente para los muertos levantar\n\n[PRE-CORO]\n[B]Na[C#]die es como El, oh gran Yo Soy\n[F#]CORO Tú eres el Dios que adoramos\n[C#]Todopoderoso y soberano\nG[D#m]rand[B]e [F#]en [C#]misericordia y poder para salvar\n[F#]Tú eres el Dios que adoramos\nQ[C#]uien derrotó la muerte y el pecado\n[D#m]Glor[B]io[D#m]so R[C#]edentor y Rey, Te adoramos\n[F#]VER[C#]SO 2 El Dios que descendió desde Su trono\n[D#m]Para [B]llevar sobre Sus hombros nuestra culpa y transgresión\nJ[F#]esú[C#]s, exaltado sobre todo\n[D#m]Nomb[B]re sobre todo nombre solo en Él hay salvación\n\n[PUENTE]\n[B]A [C#]Él sea la gloria y el poder\n[B/D#]Todo [C#]es de Él y para Él",
+      "id": "e36810cb-a9a3-4910-9a82-9c59affb03eb",
+      "createdAt": 1792587119220,
+      "updatedAt": 1792587162105
+    },
+    {
+      "title": "Brown Eyed Girl",
+      "artist": "Van Morrison",
+      "key": "G",
+      "bpm": 150,
+      "duration": 183,
+      "tags": [
+        "classic",
+        "singalong",
+        "feel-good",
+        "rock"
+      ],
+      "content": "{title: Brown Eyed Girl}\r\n{artist: Van Morrison}\r\n{key: G}\r\n{bpm: 150}\r\n{time: 4/4}\r\n{duration: 3:03}\r\n{tags: classic, singalong, feel-good, rock}\r\n\r\n{start_of_verse: Verse 1}\r\n[G]Hey, where did [C]we go\r\n[G]Days when the [D]rains came\r\n[G]Down in the [C]hollow\r\n[G]Playing a [D]new game\r\n[G]Laughing and a [C]running, hey hey\r\n[G]Skipping and a [D]jumping\r\n[G]In the misty [C]morning fog with\r\n[G]Our, [D]our hearts a thumpin' and\r\n{end_of_verse}\r\n\r\n{start_of_chorus: Chorus}\r\n[C]You, [D]my brown eyed [G]girl [Em]\r\n[C]You, [D]my brown eyed [G]girl [D]\r\n{end_of_chorus}\r\n\r\n{start_of_verse: Verse 2}\r\n[G]Whatever [C]happened\r\n[G]To Tuesday and [D]so slow\r\n[G]Going down the [C]old mine with a\r\n[G]Transistor [D]radio\r\n[G]Standing in the [C]sunlight laughing\r\n[G]Hiding behind a [D]rainbow's wall\r\n[G]Slipping and a [C]sliding\r\n[G]All a[D]long the waterfall with\r\n{end_of_verse}\r\n\r\n{chorus}\r\n\r\n{start_of_bridge: Bridge}\r\n[D7]Do you remember when we used to [G]sing\r\nSha la la [C]la la la la [G]la la la la te [D]da\r\n[G]Sha la la [C]la la la la [G]la la la la te [D]da la te [G]da\r\n{end_of_bridge}\r\n\r\n{start_of_verse: Verse 3}\r\n[G]So hard to [C]find my way\r\n[G]Now that I'm all [D]on my own\r\n[G]I saw you just the [C]other day\r\n[G]My, how [D]you have grown\r\n[G]Cast my memory [C]back there, Lord\r\n[G]Sometimes I'm [D]overcome thinking about it\r\n[G]Making love in the [C]green grass\r\n[G]Behind the [D]stadium with\r\n{end_of_verse}\r\n\r\n{chorus}\r\n\r\n{start_of_bridge: Outro}\r\n[D7]Do you remember when we used to [G]sing\r\nSha la la [C]la la la la [G]la la la la te [D]da\r\n[G]Sha la la [C]la la la la [G]la la la la te [D]da la te [G]da\r\n{end_of_bridge}\r\n",
+      "id": "seed-brown-eyed-girl",
+      "createdAt": 1792125726713,
+      "updatedAt": 1792556339003
+    },
+    {
+      "title": "Don't Look Back in Anger",
+      "artist": "Oasis",
+      "key": "C",
+      "bpm": 82,
+      "duration": 288,
+      "scrollSpeed": 2,
+      "tags": [
+        "britpop",
+        "classic",
+        "singalong",
+        "anthem"
+      ],
+      "attachments": [
+        {
+          "id": "2fd8df75-35b1-48ab-805b-fcfbfa277244",
+          "name": "SUBLIME GRACIA Himno.musx.pdf",
+          "type": "application/pdf",
+          "size": 21524
+        }
+      ],
+      "content": "{title: Don't Look Back in Anger}\r\n{artist: Oasis}\r\n{key: C}\r\n{bpm: 82}\r\n{time: 4/4}\r\n{duration: 4:48}\r\n{tags: britpop, classic, singalong, anthem}\r\n\r\n{start_of_verse: Intro}\r\n[C] [F] [C] [F]\r\n{end_of_verse}\r\n\r\n{start_of_verse: Verse 1}\r\n[C]Slip inside the [G]eye of your [Am]mind\r\nDon't you [E]know you might [F]find\r\n[G]A better place to [C]play [Am] [G]\r\n[C]You said that [G]you'd never [Am]been\r\nBut all the [E]things that you've [F]seen\r\n[G]Slowly fade a[C]way [Am] [G]\r\n{end_of_verse}\r\n\r\n{start_of_bridge: Pre-Chorus}\r\n[F]So I start a revo[Fm]lution from my [C]bed\r\n[F]'Cause you said the [Fm]brains I had went to my [C]head\r\n[F]Step outside, the [Fm]summertime's in [C]bloom\r\n[G]Stand up beside the fireplace, [E]take that look from off your face\r\n'Cause [Am]you ain't ever [G]gonna burn my [F]heart out [G]\r\n{end_of_bridge}\r\n\r\n{start_of_chorus: Chorus}\r\n[C]So [G]Sally can [Am]wait, she [E]knows it's too [F]late\r\nAs we're [G]walking on [C]by [Am] [G]\r\n[C]Her [G]soul [Am]slides a[E]way [F]\r\nBut [G]don't look back in anger, [C]I heard you [Am]say [G]\r\n{end_of_chorus}\r\n\r\n{start_of_verse: Verse 2}\r\n[C]Take me to the [G]place where you [Am]go\r\nWhere [E]nobody [F]knows\r\n[G]If it's night or [C]day [Am] [G]\r\n[C]Please don't put your [G]life in the [Am]hands\r\nOf a [E]rock and roll [F]band\r\nWho'll [G]throw it all a[C]way [Am] [G]\r\n{end_of_verse}\r\n\r\n{start_of_bridge: Pre-Chorus}\r\n[F]I'm gonna start a revo[Fm]lution from my [C]bed\r\n[F]'Cause you said the [Fm]brains I had went to my [C]head\r\n[F]Step outside, 'cause [Fm]summertime's in [C]bloom\r\n[G]Stand up beside the fireplace, [E]take that look from off your face\r\n'Cause [Am]you ain't ever [G]gonna burn my [F]heart out [G]\r\n{end_of_bridge}\r\n\r\n{chorus}\r\n\r\n{chorus}\r\n\r\n{comment: Last line changes to \"don't look back in anger, at least not today\"}\r\n",
+      "id": "seed-don-t-look-back-in-anger",
+      "createdAt": 1792125726715,
+      "updatedAt": 1792556351341
+    },
+    {
+      "id": "seed-don-t-stop-believin",
+      "title": "Don't Stop Believin'",
+      "artist": "Journey",
+      "key": "E",
+      "bpm": 118,
+      "duration": 250,
+      "tags": [
+        "rock",
+        "anthem",
+        "singalong",
+        "closer"
+      ],
+      "techNotes": "Build lighting through the song — starts low, full blast at \"Don't stop\". Confetti on last chorus if available.",
+      "content": "{title: Don't Stop Believin'}\r\n{artist: Journey}\r\n{key: E}\r\n{bpm: 118}\r\n{time: 4/4}\r\n{duration: 4:10}\r\n{tags: rock, anthem, singalong, closer}\r\n{tech_notes: Build lighting through the song — starts low, full blast at \"Don't stop\". Confetti on last chorus if available.}\r\n\r\n{start_of_verse: Verse 1}\r\n[E]Just a small town girl\r\n[B]Livin' in a [G#m]lonely world\r\n[A]She took the midnight train goin'\r\n[E]any[B]where [A]\r\n{end_of_verse}\r\n\r\n{start_of_verse: Verse 2}\r\n[E]Just a city boy\r\n[B]Born and raised in [G#m]south Detroit\r\n[A]He took the midnight train goin'\r\n[E]any[B]where [A]\r\n{end_of_verse}\r\n\r\n{start_of_verse: Verse 3}\r\n[E]A singer in a [B]smoky room\r\n[G#m]A smell of wine and [A]cheap perfume\r\n[E]For a smile they can [B]share the night\r\nIt goes [G#m]on and on and [A]on and on\r\n{end_of_verse}\r\n\r\n{start_of_bridge: Pre-Chorus}\r\n[A]Strangers [B]waiting\r\n[E]Up and down the [G#m]boulevard\r\nTheir [A]shadows [B]searching in the [E]night [A]\r\n[A]Streetlights, [B]people\r\n[E]Living just to [G#m]find emotion\r\n[A]Hiding [B]somewhere in the [E]night [A]\r\n{end_of_bridge}\r\n\r\n{start_of_verse: Verse 4}\r\n[E]Working hard to [B]get my fill\r\n[G#m]Everybody [A]wants a thrill\r\n[E]Payin' anything to [B]roll the dice\r\nJust [G#m]one more [A]time\r\n{end_of_verse}\r\n\r\n{start_of_verse: Verse 5}\r\n[E]Some will win, [B]some will lose\r\n[G#m]Some were born to [A]sing the blues\r\n[E]Oh, the movie [B]never ends\r\nIt goes [G#m]on and on and [A]on and on\r\n{end_of_verse}\r\n\r\n{start_of_bridge: Pre-Chorus}\r\n[A]Strangers [B]waiting\r\n[E]Up and down the [G#m]boulevard\r\nTheir [A]shadows [B]searching in the [E]night [A]\r\n[A]Streetlights, [B]people\r\n[E]Living just to [G#m]find emotion\r\n[A]Hiding [B]somewhere in the [E]night [A]\r\n{end_of_bridge}\r\n\r\n{start_of_chorus: Chorus}\r\n[E]Don't stop [B]believin'\r\n[G#m]Hold on to that [A]feelin'\r\n[E]Streetlights, [B]peo[G#m]ple [A]\r\n{end_of_chorus}\r\n\r\n{comment: Repeat chorus, build to big ending}\r\n",
+      "createdAt": 1792125726716,
+      "updatedAt": 1792125726716
+    },
+    {
+      "id": "seed-eye-of-the-tiger",
+      "title": "Eye of the Tiger",
+      "artist": "Survivor",
+      "key": "Cm",
+      "bpm": 109,
+      "duration": 244,
+      "tags": [
+        "rock",
+        "anthem",
+        "crowd-pleaser",
+        "80s"
+      ],
+      "techNotes": "Punchy white strobes on the riff hits. Kick drum trigger for light flash if available.",
+      "content": "{title: Eye of the Tiger}\r\n{artist: Survivor}\r\n{key: Cm}\r\n{bpm: 109}\r\n{time: 4/4}\r\n{duration: 4:04}\r\n{tags: rock, anthem, crowd-pleaser, 80s}\r\n{tech_notes: Punchy white strobes on the riff hits. Kick drum trigger for light flash if available.}\r\n\r\n{start_of_verse: Verse 1}\r\n[Cm]Risin' up, [Bb]back on the [Ab]street\r\n[Cm]Did my time, took my [Bb]chances [Ab]\r\n[Cm]Went the distance, now I'm [Bb]back on my [Ab]feet\r\nJust a [Cm]man and his [Bb]will to sur[Ab]vive\r\n{end_of_verse}\r\n\r\n{start_of_verse: Verse 2}\r\n[Cm]So many times, it [Bb]happens too [Ab]fast\r\n[Cm]You trade your passion for [Bb]glory [Ab]\r\n[Cm]Don't lose your grip on the [Bb]dreams of the [Ab]past\r\nYou must [Cm]fight just to [Bb]keep them a[Ab]live\r\n{end_of_verse}\r\n\r\n{start_of_chorus: Chorus}\r\nIt's the [Fm]eye of the tiger, it's the [Cm]thrill of the [Bb]fight\r\nRisin' [Ab]up to the challenge of our [Bb]rival\r\nAnd the [Fm]last known survivor stalks his [Cm]prey in the [Bb]night\r\nAnd he's [Ab]watchin' us [Bb]all with the [Cm]eye of the tiger\r\n{end_of_chorus}\r\n\r\n{start_of_verse: Verse 3}\r\n[Cm]Face to face, [Bb]out in the [Ab]heat\r\n[Cm]Hangin' tough, stayin' [Bb]hungry [Ab]\r\n[Cm]They stack the odds, still we [Bb]take to the [Ab]street\r\nFor the [Cm]kill, with the [Bb]skill to sur[Ab]vive\r\n{end_of_verse}\r\n\r\n{chorus}\r\n\r\n{start_of_verse: Verse 4}\r\n[Cm]Risin' up, [Bb]straight to the [Ab]top\r\n[Cm]Had the guts, got the [Bb]glory [Ab]\r\n[Cm]Went the distance, now I'm [Bb]not gonna [Ab]stop\r\nJust a [Cm]man and his [Bb]will to sur[Ab]vive\r\n{end_of_verse}\r\n\r\n{chorus}\r\n\r\n{comment: Repeat chorus to fade}\r\n",
+      "createdAt": 1792125726716,
+      "updatedAt": 1792125726716
+    },
+    {
+      "id": "seed-have-you-ever-seen-the-rain",
+      "title": "Have You Ever Seen the Rain",
+      "artist": "Creedence Clearwater Revival",
+      "key": "C",
+      "bpm": 116,
+      "duration": 160,
+      "tags": [
+        "classic-rock",
+        "singalong",
+        "feel-good"
+      ],
+      "content": "{title: Have You Ever Seen the Rain}\r\n{artist: Creedence Clearwater Revival}\r\n{key: C}\r\n{bpm: 116}\r\n{time: 4/4}\r\n{duration: 2:40}\r\n{tags: classic-rock, singalong, feel-good}\r\n\r\n{start_of_verse: Verse 1}\r\n[C]Someone told me long ago\r\nThere's a calm before the storm, I [G]know\r\nIt's been comin' [C]for some time\r\n[C]When it's over, so they say\r\nIt'll rain a sunny day, I [G]know\r\nShinin' down like [C]water\r\n{end_of_verse}\r\n\r\n{start_of_chorus: Chorus}\r\n[F]I wanna [G]know, have you [C]ever [Em]seen the [Am]rain\r\n[F]I wanna [G]know, have you [C]ever [Em]seen the [Am]rain\r\n[F]Comin' [G]down on a sunny [C]day\r\n{end_of_chorus}\r\n\r\n{start_of_verse: Verse 2}\r\n[C]Yesterday and days before\r\nSun is cold and rain is hard, I [G]know\r\nBeen that way for [C]all my time\r\n[C]'Til forever, on it goes\r\nThrough the circle, fast and slow, I [G]know\r\nIt can't stop, I [C]wonder\r\n{end_of_verse}\r\n\r\n{chorus}\r\n\r\n{chorus}\r\n\r\n{comment: Repeat chorus to fade}\r\n",
+      "createdAt": 1792125726716,
+      "updatedAt": 1792125726716
+    },
+    {
+      "id": "seed-hey-ya",
+      "title": "Hey Ya!",
+      "artist": "OutKast",
+      "key": "G",
+      "bpm": 160,
+      "duration": 235,
+      "tags": [
+        "pop",
+        "funk",
+        "crowd-pleaser",
+        "upbeat"
+      ],
+      "techNotes": "Party lights — fast color rotation. House lights up on \"shake it like a Polaroid picture\".",
+      "content": "{title: Hey Ya!}\r\n{artist: OutKast}\r\n{key: G}\r\n{bpm: 160}\r\n{time: 4/4}\r\n{duration: 3:55}\r\n{tags: pop, funk, crowd-pleaser, upbeat}\r\n{tech_notes: Party lights — fast color rotation. House lights up on \"shake it like a Polaroid picture\".}\r\n\r\n{start_of_verse: Verse 1}\r\n[G]One, two, three, uh!\r\n[C]My baby don't [D]mess around because she\r\n[Em]Loves me so and this I [C]know fo' sho'\r\n[C]But does she [D]really wanna but can't [Em]stand to see me walk\r\nOut the [C]door\r\n[G]Don't try to [C]fight the feeling 'cause the\r\n[D]Thought alone is killing [Em]me right now\r\n[C]Thank God for [G]Mom and [C]Dad for sticking\r\n[D]Two together 'cause we [Em]don't know [C]how\r\n{end_of_verse}\r\n\r\n{start_of_chorus: Chorus}\r\n[G]Hey [C]ya! [D]Hey [Em]ya!\r\n[G]Hey [C]ya! [D]Hey [Em]ya!\r\n[G]Hey [C]ya! [D]Hey [Em]ya!\r\n[G]Hey [C]ya! [D]Hey [Em]ya!\r\n{end_of_chorus}\r\n\r\n{start_of_verse: Verse 2}\r\n[G]You think you've got it, [C]oh you think you've got it\r\nBut [D]got it just don't get it till there's [Em]nothing at [C]all\r\n[G]We get together, [C]oh we get together\r\nBut [D]separate's always better when there's [Em]feelings in[C]volved\r\n[G]If what they say is [C]\"nothing is forever\"\r\nThen [D]what makes, then what makes, then [Em]what makes, then\r\nWhat makes, [C]what makes love the exception?\r\n{end_of_verse}\r\n\r\n{chorus}\r\n\r\n{start_of_bridge: Bridge}\r\n[G]Alright now fellas! (Yeah!)\r\n[C]Now what's cooler than being cool? (Ice cold!)\r\n[D]I can't hear ya! I say what's cooler than being cool? (Ice cold!)\r\n[Em]Alright alright alright alright [C]alright alright alright alright\r\n{end_of_bridge}\r\n\r\n{start_of_verse: Shake it}\r\n[G]Now ladies! [C]Yeah?\r\n[D]We're gonna break this thing down in just a few [Em]seconds [C]\r\nNow don't have me [G]break this thing down for [C]nothing\r\nNow I wanna [D]see y'all on your baddest be[Em]haviour [C]\r\n[G]Lend me some [C]sugar, I [D]am your [Em]neighbour [C]\r\n{end_of_verse}\r\n\r\n{start_of_chorus: Shake it}\r\nAh, [G]shake it, sh-shake it [C]shake it, sh-shake it\r\n[D]Shake it, sh-shake it [Em]shake it, shake it [C]\r\n[G]Shake it like a [C]Polaroid [D]pic[Em]ture [C]\r\n{end_of_chorus}\r\n\r\n{chorus}\r\n",
+      "createdAt": 1792125726717,
+      "updatedAt": 1792125726717
+    },
+    {
+      "id": "seed-hotel-california",
+      "title": "Hotel California",
+      "artist": "Eagles",
+      "key": "Bm",
+      "bpm": 74,
+      "duration": 390,
+      "tags": [
+        "classic-rock",
+        "iconic",
+        "guitar-showcase"
+      ],
+      "techNotes": "Dim lights for intro, slow build. Spotlight on lead guitar for the outro solo. No strobes.",
+      "content": "{title: Hotel California}\r\n{artist: Eagles}\r\n{key: Bm}\r\n{bpm: 74}\r\n{time: 4/4}\r\n{duration: 6:30}\r\n{tags: classic-rock, iconic, guitar-showcase}\r\n{tech_notes: Dim lights for intro, slow build. Spotlight on lead guitar for the outro solo. No strobes.}\r\n\r\n{start_of_verse: Verse 1}\r\n[Bm]On a dark desert highway, [F#7]cool wind in my hair\r\n[A]Warm smell of colitas, [E]rising up through the air\r\n[G]Up ahead in the distance, [D]I saw a shimmering light\r\n[Em]My head grew heavy and my sight grew dim,\r\n[F#7]I had to stop for the night\r\n{end_of_verse}\r\n\r\n{start_of_verse: Verse 2}\r\n[Bm]There she stood in the doorway, [F#7]I heard the mission bell\r\n[A]And I was thinking to myself, this could be [E]heaven or this could be hell\r\n[G]Then she lit up a candle, [D]and she showed me the way\r\n[Em]There were voices down the corridor,\r\n[F#7]I thought I heard them say\r\n{end_of_verse}\r\n\r\n{start_of_chorus: Chorus}\r\n[G]Welcome to the Hotel Cali[D]fornia\r\nSuch a [Em]lovely place, such a lovely place, such a [F#7]lovely face\r\n[G]Plenty of room at the Hotel Cali[D]fornia\r\nAny [Em]time of year, any time of year, you can [F#7]find it here\r\n{end_of_chorus}\r\n\r\n{start_of_verse: Verse 3}\r\n[Bm]Her mind is Tiffany-twisted, [F#7]she got the Mercedes bends\r\n[A]She got a lot of pretty, pretty boys [E]she calls friends\r\n[G]How they dance in the courtyard, [D]sweet summer sweat\r\n[Em]Some dance to remember, [F#7]some dance to forget\r\n{end_of_verse}\r\n\r\n{start_of_verse: Verse 4}\r\n[Bm]So I called up the Captain, [F#7]\"please bring me my wine,\" he said\r\n[A]\"We haven't had that spirit here since [E]nineteen sixty nine\"\r\n[G]And still those voices are calling from [D]far away\r\n[Em]Wake you up in the middle of the night\r\n[F#7]Just to hear them say\r\n{end_of_verse}\r\n\r\n{chorus}\r\n\r\n{start_of_verse: Verse 5}\r\n[Bm]Mirrors on the ceiling, [F#7]the pink champagne on ice, and she said\r\n[A]\"We are all just prisoners here, [E]of our own device\"\r\n[G]And in the master's chambers, [D]they gathered for the feast\r\n[Em]They stab it with their steely knives but they\r\n[F#7]Just can't kill the beast\r\n{end_of_verse}\r\n\r\n{start_of_verse: Verse 6}\r\n[Bm]Last thing I remember, I was [F#7]running for the door\r\n[A]I had to find the passage back to the [E]place I was before\r\n[G]\"Relax,\" said the night man, \"we are [D]programmed to receive\r\n[Em]You can check out any time you like but\r\n[F#7]You can never leave\"\r\n{end_of_verse}\r\n\r\n{comment: Extended guitar solo outro over Bm-F#7-A-E-G-D-Em-F#7}\r\n",
+      "createdAt": 1792125726717,
+      "updatedAt": 1792125726717
+    },
+    {
+      "id": "seed-i-m-yours",
+      "title": "I'm Yours",
+      "artist": "Jason Mraz",
+      "key": "B",
+      "bpm": 76,
+      "duration": 243,
+      "tags": [
+        "pop",
+        "acoustic",
+        "feel-good",
+        "singalong"
+      ],
+      "content": "{title: I'm Yours}\r\n{artist: Jason Mraz}\r\n{key: B}\r\n{bpm: 76}\r\n{time: 4/4}\r\n{duration: 4:03}\r\n{tags: pop, acoustic, feel-good, singalong}\r\n\r\n{comment: Commonly played in C with capo 4 for B key}\r\n\r\n{start_of_verse: Verse 1}\r\n[C]Well, you done done me and you bet I felt it\r\nI [G]tried to be chill but you're so hot that I melted\r\nI [Am]fell right through the cracks, now I'm [F]trying to get back\r\n{end_of_verse}\r\n\r\n{start_of_verse: Verse 2}\r\n[C]Before the cool done run out I'll be giving it my bestest\r\nAnd [G]nothing's gonna stop me but divine intervention\r\nI [Am]reckon it's again my turn to [F]win some or learn some\r\n{end_of_verse}\r\n\r\n{start_of_chorus: Chorus}\r\nBut [C]I won't hesi[G]tate no more, no [Am]more\r\nIt cannot [F]wait, I'm yours\r\n{end_of_chorus}\r\n\r\n{start_of_verse: Verse 3}\r\n[C]Well open up your mind and see like [G]me\r\nOpen up your plans and damn you're [Am]free\r\nLook into your heart and you'll find [F]love, love, love, love\r\n{end_of_verse}\r\n\r\n{start_of_verse: Verse 4}\r\n[C]Listen to the music of the moment people dance and [G]sing\r\nWe're just one big fami[Am]ly\r\nAnd it's our God-forsaken right to be [F]loved, loved, loved, loved, [D7]loved\r\n{end_of_verse}\r\n\r\n{chorus}\r\n\r\n{start_of_bridge: Bridge}\r\n[C]I've been spending [G]way too long checking my tongue in the mirror\r\nAnd [Am]bending over backwards just to [F]try to see it clearer\r\nBut my [C]breath fogged up the glass\r\nAnd so I [G]drew a new face and I [Am]laughed\r\n[F]I guess what I be saying is there ain't no better reason\r\nTo [C]rid yourself of vanities and just go with the [G]seasons\r\nIt's [Am]what we aim to do, our [F]name is our virtue\r\n{end_of_bridge}\r\n\r\n{chorus}\r\n\r\n{comment: Repeat chorus, scat/vocal jam to fade}\r\n",
+      "createdAt": 1792125726718,
+      "updatedAt": 1792128616557,
+      "scrollSpeed": 1
+    },
+    {
+      "id": "seed-jolene",
+      "title": "Jolene",
+      "artist": "Dolly Parton",
+      "key": "Am",
+      "bpm": 112,
+      "duration": 162,
+      "tags": [
+        "country",
+        "classic",
+        "acoustic",
+        "singalong"
+      ],
+      "techNotes": "Single warm spot on vocalist. No fills, no color changes. Intimate.",
+      "content": "{title: Jolene}\r\n{artist: Dolly Parton}\r\n{key: Am}\r\n{bpm: 112}\r\n{time: 4/4}\r\n{duration: 2:42}\r\n{tags: country, classic, acoustic, singalong}\r\n{tech_notes: Single warm spot on vocalist. No fills, no color changes. Intimate.}\r\n\r\n{start_of_chorus: Chorus}\r\n[Am]Jolene, [C]Jolene, Jo[G]lene, Jo[Am]lene\r\nI'm [G]begging of you [Em]please don't take my [Am]man\r\n[Am]Jolene, [C]Jolene, Jo[G]lene, Jo[Am]lene\r\n[G]Please don't take him [Em]just because you [Am]can\r\n{end_of_chorus}\r\n\r\n{start_of_verse: Verse 1}\r\n[Am]Your beauty is be[C]yond compare\r\nWith [G]flaming locks of [Am]auburn hair\r\nWith [G]ivory skin and [Em]eyes of emerald [Am]green\r\n[Am]Your smile is like a [C]breath of spring\r\nYour [G]voice is soft like [Am]summer rain\r\nAnd [G]I cannot com[Em]pete with you, Jo[Am]lene\r\n{end_of_verse}\r\n\r\n{chorus}\r\n\r\n{start_of_verse: Verse 2}\r\n[Am]He talks about you [C]in his sleep\r\nAnd there's [G]nothing I can [Am]do to keep\r\nFrom [G]crying when he [Em]calls your name, Jo[Am]lene\r\n[Am]And I can easily [C]understand\r\nHow [G]you could easily [Am]take my man\r\nBut [G]you don't know what he [Em]means to me, Jo[Am]lene\r\n{end_of_verse}\r\n\r\n{chorus}\r\n\r\n{start_of_verse: Verse 3}\r\n[Am]You could have your [C]choice of men\r\nBut [G]I could never [Am]love again\r\n[G]He's the only [Em]one for me, Jo[Am]lene\r\n[Am]I had to have this [C]talk with you\r\nMy [G]happiness de[Am]pends on you\r\nAnd what[G]ever you de[Em]cide to do, Jo[Am]lene\r\n{end_of_verse}\r\n\r\n{chorus}\r\n\r\n{comment: Repeat chorus to fade}\r\n",
+      "createdAt": 1792125726718,
+      "updatedAt": 1792125726718
+    },
+    {
+      "id": "seed-knockin-on-heaven-s-door",
+      "title": "Knockin' on Heaven's Door",
+      "artist": "Bob Dylan",
+      "key": "G",
+      "bpm": 69,
+      "duration": 152,
+      "tags": [
+        "folk",
+        "classic",
+        "singalong",
+        "acoustic"
+      ],
+      "techNotes": "Slow fade up from blackout. Warm amber only. House lights for the final singalong round.",
+      "content": "{title: Knockin' on Heaven's Door}\r\n{artist: Bob Dylan}\r\n{key: G}\r\n{bpm: 69}\r\n{time: 4/4}\r\n{duration: 2:32}\r\n{tags: folk, classic, singalong, acoustic}\r\n{tech_notes: Slow fade up from blackout. Warm amber only. House lights for the final singalong round.}\r\n\r\n{start_of_verse: Verse 1}\r\n[G]Mama, take this [D]badge off of [Am]me [Am]\r\n[G]I can't [D]use it any[C]more [C]\r\n[G]It's gettin' [D]dark, too dark to [Am]see [Am]\r\n[G]I feel I'm [D]knockin' on heaven's [C]door [C]\r\n{end_of_verse}\r\n\r\n{start_of_chorus: Chorus}\r\n[G]Knock, knock, [D]knockin' on heaven's [Am]door [Am]\r\n[G]Knock, knock, [D]knockin' on heaven's [C]door [C]\r\n[G]Knock, knock, [D]knockin' on heaven's [Am]door [Am]\r\n[G]Knock, knock, [D]knockin' on heaven's [C]door [C]\r\n{end_of_chorus}\r\n\r\n{start_of_verse: Verse 2}\r\n[G]Mama, put my [D]guns in the [Am]ground [Am]\r\n[G]I can't [D]shoot them any[C]more [C]\r\n[G]That long black [D]cloud is comin' [Am]down [Am]\r\n[G]I feel I'm [D]knockin' on heaven's [C]door [C]\r\n{end_of_verse}\r\n\r\n{chorus}\r\n\r\n{comment: Repeat chorus to fade, let the crowd sing}\r\n",
+      "createdAt": 1792125726718,
+      "updatedAt": 1792125726718
+    },
+    {
+      "id": "seed-la-bamba",
+      "title": "La Bamba",
+      "artist": "Ritchie Valens",
+      "key": "C",
+      "bpm": 140,
+      "duration": 127,
+      "tags": [
+        "latin",
+        "rock-n-roll",
+        "classic",
+        "crowd-pleaser"
+      ],
+      "content": "{title: La Bamba}\r\n{artist: Ritchie Valens}\r\n{key: C}\r\n{bpm: 140}\r\n{time: 4/4}\r\n{duration: 2:07}\r\n{tags: latin, rock-n-roll, classic, crowd-pleaser}\r\n\r\n{start_of_verse: Verse 1}\r\n[C]Para bailar la [F]bamba\r\n[G]Para bailar la [C]bamba se nece[F]sita\r\nUna poca de [G]gracia\r\n[C]Una poca de [F]gracia pa' mi pa' [G]ti\r\nAy arriba y a[C]rriba [F] [G]\r\n{end_of_verse}\r\n\r\n{start_of_chorus: Chorus}\r\nAy arriba y a[C]rriba, por ti [F]seré\r\nPor ti se[G]ré, por ti seré\r\n[C]Yo no soy mari[F]nero [G]\r\n[C]Yo no soy mari[F]nero, soy capi[G]tán\r\n[C]Soy capi[F]tán, soy capi[G]tán\r\n{end_of_chorus}\r\n\r\n{start_of_verse: Bamba}\r\n[C]Bamba, [F]bamba [G]\r\n[C]Bamba, [F]bamba [G]\r\n[C]Bamba, [F]bamba [G]\r\n{end_of_verse}\r\n\r\n{start_of_verse: Verse 2}\r\n[C]Para bailar la [F]bamba\r\n[G]Para bailar la [C]bamba se nece[F]sita\r\nUna poca de [G]gracia\r\n[C]Una poca de [F]gracia pa' mi pa' [G]ti\r\nAy arriba y a[C]rriba [F] [G]\r\n{end_of_verse}\r\n\r\n{chorus}\r\n\r\n{start_of_verse: Bamba}\r\n[C]Bamba, [F]bamba [G]\r\n[C]Bamba, [F]bamba [G]\r\n[C]Bamba, [F]bamba [G]\r\n{end_of_verse}\r\n\r\n{comment: Repeat and build energy, end big on C}\r\n",
+      "createdAt": 1792125726719,
+      "updatedAt": 1792125726719
+    },
+    {
+      "id": "seed-let-it-be",
+      "title": "Let It Be",
+      "artist": "The Beatles",
+      "key": "C",
+      "bpm": 71,
+      "duration": 243,
+      "tags": [
+        "classic",
+        "ballad",
+        "singalong",
+        "emotional"
+      ],
+      "content": "{title: Let It Be}\r\n{artist: The Beatles}\r\n{key: C}\r\n{bpm: 71}\r\n{time: 4/4}\r\n{duration: 4:03}\r\n{tags: classic, ballad, singalong, emotional}\r\n\r\n{start_of_verse: Verse 1}\r\n[C]When I find myself in [G]times of trouble\r\n[Am]Mother Mary [F]comes to me\r\n[C]Speaking words of [G]wisdom, let it [F]be [C]\r\n[C]And in my hour of [G]darkness\r\nShe is [Am]standing right in [F]front of me\r\n[C]Speaking words of [G]wisdom, let it [F]be [C]\r\n{end_of_verse}\r\n\r\n{start_of_chorus: Chorus}\r\nLet it [Am]be, let it [G]be, let it [F]be, let it [C]be\r\n[C]Whisper words of [G]wisdom, let it [F]be [C]\r\n{end_of_chorus}\r\n\r\n{start_of_verse: Verse 2}\r\n[C]And when the broken [G]hearted people\r\n[Am]Living in the [F]world agree\r\n[C]There will be an [G]answer, let it [F]be [C]\r\n[C]For though they may be [G]parted\r\nThere is [Am]still a chance that [F]they will see\r\n[C]There will be an [G]answer, let it [F]be [C]\r\n{end_of_chorus}\r\n\r\n{chorus}\r\n\r\n{start_of_verse: Verse 3}\r\n[C]And when the night is [G]cloudy\r\nThere is [Am]still a light that [F]shines on me\r\n[C]Shine on until to[G]morrow, let it [F]be [C]\r\n[C]I wake up to the [G]sound of music\r\n[Am]Mother Mary [F]comes to me\r\n[C]Speaking words of [G]wisdom, let it [F]be [C]\r\n{end_of_verse}\r\n\r\n{chorus}\r\n\r\n{comment: Repeat chorus to fade}\r\n",
+      "createdAt": 1792125726719,
+      "updatedAt": 1792125726719
+    },
+    {
+      "id": "seed-livin-on-a-prayer",
+      "title": "Livin' on a Prayer",
+      "artist": "Bon Jovi",
+      "key": "Em",
+      "bpm": 122,
+      "duration": 249,
+      "tags": [
+        "rock",
+        "anthem",
+        "singalong",
+        "crowd-pleaser"
+      ],
+      "techNotes": "Talk box needs DI channel 3. Strobes on the key change. House lights up on final chorus for singalong.",
+      "content": "{title: Livin' on a Prayer}\r\n{artist: Bon Jovi}\r\n{key: Em}\r\n{bpm: 122}\r\n{time: 4/4}\r\n{duration: 4:09}\r\n{tags: rock, anthem, singalong, crowd-pleaser}\r\n{tech_notes: Talk box needs DI channel 3. Strobes on the key change. House lights up on final chorus for singalong.}\r\n\r\n{comment: 24B 🎸🎹🥁🎙️ · Talk box}\r\n\r\n{start_of_verse: Verse 1}\r\n[Em]Tommy used to work on the docks\r\n[Em]Union's been on strike, he's down on his luck\r\nIt's [C]tough, [D]so [Em]tough\r\n[Em]Gina works the diner all day\r\n[Em]Working for her man, she brings home her pay for\r\n[C]Love, [D]for [Em]love\r\n{end_of_verse}\r\n\r\n{c: Lead vocals only, band drops out}\r\n\r\n{start_of_bridge: Pre-Chorus}\r\n[C]She says we've got to [D]hold on to what we've [Em]got\r\nIt [C]doesn't make a [D]difference if we make it or [Em]not\r\nWe've [C]got each other [D]and that's a lot for\r\n[Em]Love, we'll [C]give it a [D]shot\r\n{end_of_bridge}\r\n\r\n{start_of_chorus: Chorus}\r\n[Em]Woah, we're [C]half way [D]there\r\n[Em]{soh}Woah, [C]livin' on a [D]prayer{eoh}\r\n[Em]Take my [C]hand, we'll [D]make it I swear\r\n[Em]Woah, [C]livin' on a [D]prayer\r\n{end_of_chorus}\r\n\r\n{start_of_verse: Verse 2}\r\n[Em]Tommy's got his six string in hock\r\n[Em]Now he's holding in what he used to make it talk so\r\n[C]Tough, [D]it's [Em]tough\r\n[Em]Gina dreams of running away\r\n[Em]When she cries in the night Tommy whispers, baby it's\r\n[C]O[D]K, some[Em]day\r\n{end_of_verse}\r\n\r\n{start_of_bridge: Pre-Chorus}\r\n[C]We've got to [D]hold on to what we've [Em]got\r\nIt [C]doesn't make a [D]difference if we make it or [Em]not\r\nWe've [C]got each other [D]and that's a lot for\r\n[Em]Love, we'll [C]give it a [D]shot\r\n{end_of_bridge}\r\n\r\n{chorus}\r\n\r\n{comment: Key change up a half step for final chorus — Em to Fm}\r\n\r\n{start_of_chorus: Final Chorus}\r\n[Fm]Woah, we're [Db]half way [Eb]there\r\n[Fm]Woah, [Db]livin' on a [Eb]prayer\r\n[Fm]Take my [Db]hand, we'll [Eb]make it I swear\r\n[Fm]Woah, [Db]livin' on a [Eb]prayer\r\n{end_of_chorus}\r\n",
+      "createdAt": 1792125726720,
+      "updatedAt": 1792125726720
+    },
+    {
+      "id": "seed-mr-brightside",
+      "title": "Mr. Brightside",
+      "artist": "The Killers",
+      "key": "Db",
+      "bpm": 148,
+      "duration": 222,
+      "tags": [
+        "indie-rock",
+        "anthem",
+        "crowd-pleaser",
+        "2000s"
+      ],
+      "techNotes": "Full house lights on chorus — everyone knows this one. Fast color chase during verses.",
+      "content": "{title: Mr. Brightside}\r\n{artist: The Killers}\r\n{key: Db}\r\n{bpm: 148}\r\n{time: 4/4}\r\n{duration: 3:42}\r\n{tags: indie-rock, anthem, crowd-pleaser, 2000s}\r\n{tech_notes: Full house lights on chorus — everyone knows this one. Fast color chase during verses.}\r\n\r\n{start_of_verse: Verse 1}\r\n[D]Coming out of my cage and I've been doing just [D]fine\r\nGotta gotta be down because I want it [D]all\r\n[D]It started out with a kiss, how did it end up like [D]this?\r\nIt was only a kiss, it was only a [D]kiss\r\n{end_of_verse}\r\n\r\n{start_of_verse: Verse 2}\r\n[D]Now I'm falling asleep and she's calling a [Bm]cab\r\nWhile he's having a smoke and she's taking a [G]drag\r\nNow they're going to bed and my stomach is [A]sick\r\nAnd it's all in my head but she's touching his\r\n{end_of_verse}\r\n\r\n{start_of_chorus: Chorus}\r\n[D]Chest now, he takes off her [Bm]dress now\r\nLet me [G]go [A]\r\n[D]And I just can't look, it's [Bm]killing me\r\nAnd [G]taking con[A]trol\r\n{end_of_chorus}\r\n\r\n{start_of_bridge: Bridge}\r\n[G]Jealousy, [A]turning saints [Bm]into the sea\r\n[G]Swimming through [A]sick lulla[Bm]bies\r\n[G]Choking on your [A]ali[D]bis\r\nBut it's just the [G]price I [A]pay\r\n[Bm]Destiny is calling me\r\n[G]Open up my [A]eager [D]eyes\r\n'Cause [G]I'm Mr. [A]Brightside\r\n{end_of_bridge}\r\n\r\n{start_of_verse: Verse 3}\r\n[D]I'm coming out of my cage and I've been doing just [D]fine\r\nGotta gotta be down because I want it [D]all\r\n[D]It started out with a kiss, how did it end up like [D]this?\r\nIt was only a kiss, it was only a [D]kiss\r\n{end_of_verse}\r\n\r\n{start_of_verse: Verse 4}\r\n[D]Now I'm falling asleep and she's calling a [Bm]cab\r\nWhile he's having a smoke and she's taking a [G]drag\r\nNow they're going to bed and my stomach is [A]sick\r\nAnd it's all in my head but she's touching his\r\n{end_of_verse}\r\n\r\n{chorus}\r\n\r\n{start_of_bridge: Bridge}\r\n[G]Jealousy, [A]turning saints [Bm]into the sea\r\n[G]Swimming through [A]sick lulla[Bm]bies\r\n[G]Choking on your [A]ali[D]bis\r\nBut it's just the [G]price I [A]pay\r\n[Bm]Destiny is calling me\r\n[G]Open up my [A]eager [D]eyes\r\n'Cause [G]I'm Mr. [A]Bright[D]side\r\n{end_of_bridge}\r\n",
+      "createdAt": 1792125726721,
+      "updatedAt": 1792125726721
+    },
+    {
+      "id": "seed-no-woman-no-cry",
+      "title": "No Woman No Cry",
+      "artist": "Bob Marley & The Wailers",
+      "key": "C",
+      "bpm": 78,
+      "duration": 428,
+      "tags": [
+        "reggae",
+        "classic",
+        "live-staple"
+      ],
+      "notes": "Play the live version feel. Bass walkdown on G/B is essential.",
+      "content": "{title: No Woman No Cry}\r\n{artist: Bob Marley & The Wailers}\r\n{key: C}\r\n{bpm: 78}\r\n{time: 4/4}\r\n{duration: 7:08}\r\n{tags: reggae, classic, live-staple}\r\n{notes: Play the live version feel. Bass walkdown on G/B is essential.}\r\n\r\n{start_of_chorus: Chorus}\r\n[C]No [G/B]woman, no [Am]cry [F]\r\n[C]No [G/B]woman, no [Am]cry [F]\r\n{end_of_chorus}\r\n\r\n{comment: \"Said, said, said...\" transitions into verse}\r\n\r\n{start_of_verse: Verse 1}\r\n[C]Said, [G/B]I remember [Am]when we used to [F]sit\r\n[C]In the government [G/B]yard in [Am]Trenchtown [F]\r\n[C]Oba, ob[G/B]serving the [Am]hypocrites [F]\r\n[C]As they would [G/B]mingle with the [Am]good people we [F]meet\r\n\r\n[C]Good friends we [G/B]have, oh [Am]good friends we've [F]lost\r\n[C]Along the [G/B]way [Am] [F]\r\n[C]In this great [G/B]future, you [Am]can't forget your [F]past\r\n[C]So dry your [G/B]tears, I [Am]say [F]\r\n{end_of_verse}\r\n\r\n{chorus}\r\n\r\n{start_of_verse: Verse 2}\r\n[C]Said, [G/B]I remember [Am]when we used to [F]sit\r\n[C]In the government [G/B]yard in [Am]Trenchtown [F]\r\n[C]And then Georgie [G/B]would make the [Am]fire light [F]\r\n[C]As it was [G/B]log wood [Am]burnin' through the [F]night\r\n\r\n[C]Then we would [G/B]cook corn[Am]meal porridge [F]\r\n[C]Of which I'll [G/B]share with [Am]you [F]\r\n[C]My feet is [G/B]my only [Am]carriage [F]\r\n[C]So I've got to [G/B]push on [Am]through, oh while I'm [F]gone\r\n{end_of_verse}\r\n\r\n{start_of_bridge: Everything's Gonna Be Alright}\r\n[C]Everything's [G/B]gonna be all [Am]right [F]\r\n[C]Everything's [G/B]gonna be all [Am]right [F]\r\n[C]Everything's [G/B]gonna be all [Am]right [Fm]\r\n[C]Everything's [G/B]gonna be all [Am]right [Fm]\r\n{end_of_bridge}\r\n\r\n{comment: Build intensity on repeats, Fm adds darker flavor}\r\n\r\n{chorus}\r\n\r\n{start_of_note: Arrangement}\r\nOutro: repeat chorus progression, gradual fade.\r\nLet the last \"no woman no cry\" ring out and decay naturally.\r\n{end_of_note}\r\n\r\n{start_of_tab: Intro Picking, for=guitar}\r\ne|----0---------0-------0---------0-----|\r\nB|----1---1-----1-------1---1-----1-----|\r\nG|----0---0-----0-------2---2-----2-----|\r\nD|----2---2-----0-------2---2-----3-----|\r\nA|--3---3-----2---2---0---0-------------|\r\nE|----------------------------------------|\r\n    C         G/B       Am        F\r\n{end_of_tab}\r\n",
+      "createdAt": 1792125726722,
+      "updatedAt": 1792125726722
+    },
+    {
+      "id": "seed-proud-mary",
+      "title": "Proud Mary",
+      "artist": "Creedence Clearwater Revival",
+      "key": "D",
+      "bpm": 130,
+      "duration": 187,
+      "tags": [
+        "classic-rock",
+        "crowd-pleaser",
+        "upbeat",
+        "closer"
+      ],
+      "techNotes": "Starts slow — blue wash. When tempo doubles, full stage blast and strobes. Sound: watch gain on the tempo change.",
+      "content": "{title: Proud Mary}\r\n{artist: Creedence Clearwater Revival}\r\n{key: D}\r\n{bpm: 130}\r\n{time: 4/4}\r\n{duration: 3:07}\r\n{tags: classic-rock, crowd-pleaser, upbeat, closer}\r\n{tech_notes: Starts slow — blue wash. When tempo doubles, full stage blast and strobes. Sound: watch gain on the tempo change.}\r\n\r\n{start_of_verse: Verse 1}\r\n[D]Left a good job in the city\r\n[D]Workin' for the man every night and day\r\n[D]And I never lost one minute of sleepin'\r\n[D]Worryin' 'bout the way things might have been\r\n{end_of_verse}\r\n\r\n{start_of_bridge: Pre-Chorus}\r\n[A]Big wheel keep on turnin'\r\n[Bm]Proud Mary keep on burnin'\r\n{end_of_bridge}\r\n\r\n{start_of_chorus: Chorus}\r\n[D]Rollin', rollin', rollin' on the river\r\n[D]Rollin', rollin', rollin' on the river\r\n{end_of_chorus}\r\n\r\n{start_of_verse: Verse 2}\r\n[D]Cleaned a lot of plates in Memphis\r\n[D]Pumped a lot of 'pane down in New Orleans\r\n[D]But I never saw the good side of the city\r\n[D]'Til I hitched a ride on a river boat queen\r\n{end_of_verse}\r\n\r\n{start_of_bridge: Pre-Chorus}\r\n[A]Big wheel keep on turnin'\r\n[Bm]Proud Mary keep on burnin'\r\n{end_of_bridge}\r\n\r\n{chorus}\r\n\r\n{start_of_verse: Verse 3}\r\n[D]If you come down to the river\r\n[D]Bet you gonna find some people who live\r\n[D]You don't have to worry 'cause you have no money\r\n[D]People on the river are happy to give\r\n{end_of_verse}\r\n\r\n{start_of_bridge: Pre-Chorus}\r\n[A]Big wheel keep on turnin'\r\n[Bm]Proud Mary keep on burnin'\r\n{end_of_bridge}\r\n\r\n{chorus}\r\n\r\n{comment: Repeat chorus, build energy to end}\r\n",
+      "createdAt": 1792125726722,
+      "updatedAt": 1792125726722
+    },
+    {
+      "id": "seed-redemption-song",
+      "title": "Redemption Song",
+      "artist": "Bob Marley & The Wailers",
+      "key": "G",
+      "bpm": 66,
+      "duration": 228,
+      "tags": [
+        "reggae",
+        "acoustic",
+        "folk"
+      ],
+      "notes": "Acoustic guitar only. Fingerpicked intro, strummed verses. Keep it sparse and raw.",
+      "content": "{title: Redemption Song}\r\n{artist: Bob Marley & The Wailers}\r\n{key: G}\r\n{bpm: 66}\r\n{time: 4/4}\r\n{duration: 3:48}\r\n{tags: reggae, acoustic, folk}\r\n{notes: Acoustic guitar only. Fingerpicked intro, strummed verses. Keep it sparse and raw.}\r\n\r\n{start_of_verse: Verse 1}\r\n[G]Old pirates, yes, they [Em]rob I\r\n[C]Sold I to the [G/B]merchant [Am]ships\r\n[G]Minutes after they [Em]took I\r\n[C]From the [G/B]bottomless [Am]pit\r\n[G]But my hand was made [Em]strong\r\n[C]By the hand [G/B]of the Al[Am]mighty\r\n[G]We forward in this [Em]generation\r\n[C]Triumphant[D]ly\r\n{end_of_verse}\r\n\r\n{start_of_chorus: Chorus}\r\nWon't you [G]help to [C]sing [D]\r\nThese [G]songs of [C]free[D]dom?\r\n'Cause [G]all I [C]ever [D]have\r\n[G]Redemption [C]songs [D]\r\n[G]Redemption [C]songs [D]\r\n{end_of_chorus}\r\n\r\n{comment: Guitar break: | Em | Em | C | D | x2}\r\n\r\n{start_of_verse: Verse 2}\r\n[G]Emancipate yourselves from [Em]mental slavery\r\n[C]None but our[G/B]selves can [Am]free our minds\r\n[G]Have no fear for [Em]atomic energy\r\n[C]'Cause none of [G/B]them can stop the [D]time\r\n[G]How long shall they [Em]kill our prophets\r\n[C]While we [G/B]stand aside and [Am]look?\r\n[G]Some say it's just a [Em]part of it\r\n[C]We've got to [G/B]fulfill the [D]book\r\n{end_of_verse}\r\n\r\n{chorus}\r\n\r\n{comment: Guitar break: | Em | Em | C | D | x2}\r\n\r\n{start_of_verse: Verse 3}\r\n[G]Emancipate yourselves from [Em]mental slavery\r\n[C]None but our[G/B]selves can [Am]free our minds\r\n[G]Have no fear for [Em]atomic energy\r\n[C]'Cause none of [G/B]them can stop the [D]time\r\n[G]How long shall they [Em]kill our prophets\r\n[C]While we [G/B]stand aside and [Am]look?\r\n[G]Yes, some say it's just a [Em]part of it\r\n[C]We've got to [G/B]fulfill the [D]book\r\n{end_of_verse}\r\n\r\n{start_of_chorus: Final Chorus}\r\nWon't you [G]help to [C]sing [D]\r\nThese [G]songs of [C]free[D]dom?\r\n'Cause [G]all I [C]ever [D]have\r\n[G]Redemption [C]songs [D]\r\n[G]Redemption [C]songs [D]\r\n[Em]Redemption [C]songs [D]\r\n{end_of_chorus}\r\n\r\n{start_of_note: Arrangement}\r\nOutro resolves on Am6 — the added F# gives it a bittersweet ending.\r\nLet the last chord ring. No rush.\r\n{end_of_note}\r\n\r\n{start_of_tab: Intro, for=guitar}\r\ne|---3--------3---|---0--------0---|\r\nB|---3--------3---|---0--------0---|\r\nG|---0--------0---|---0--------0---|\r\nD|---0--------0---|---2--------2---|\r\nA|---2--------x---|---2--------2---|\r\nE|---3--------3---|---0--------0---|\r\n     G                Em\r\n\r\ne|---0--------0---|---0--------0---|\r\nB|---1--------1---|---1--------1---|\r\nG|---0--------0---|---2--------2---|\r\nD|---2--------2---|---2--------2---|\r\nA|---3--------2---|---0--------0---|\r\nE|----------------|----------------|\r\n     C       G/B       Am\r\n{end_of_tab}\r\n",
+      "createdAt": 1792125726723,
+      "updatedAt": 1792125726723
+    },
+    {
+      "id": "seed-riptide",
+      "title": "Riptide",
+      "artist": "Vance Joy",
+      "key": "Db",
+      "bpm": 102,
+      "duration": 204,
+      "tags": [
+        "indie-pop",
+        "acoustic",
+        "feel-good",
+        "singalong"
+      ],
+      "content": "{title: Riptide}\r\n{artist: Vance Joy}\r\n{key: Db}\r\n{bpm: 102}\r\n{time: 4/4}\r\n{duration: 3:24}\r\n{tags: indie-pop, acoustic, feel-good, singalong}\r\n\r\n{comment: Capo 1, play Am-G-C}\r\n\r\n{start_of_verse: Verse 1}\r\n[Am]I was scared of [G]dentists and the [C]dark\r\n[Am]I was scared of [G]pretty girls and [C]starting conversations\r\n[Am]Oh, all my [G]friends are turning [C]green\r\n[Am]You're the magi[G]cian's assistant [C]in their dream\r\n{end_of_verse}\r\n\r\n{start_of_bridge: Pre-Chorus}\r\n[Am]Ah [G]ooh, [C]ah ooh, and they [Am]come un[G]stuck [C]\r\n{end_of_bridge}\r\n\r\n{start_of_chorus: Chorus}\r\n[Am]Lady, [G]running down to the [C]riptide\r\nTaken away to the [Am]dark side\r\n[G]I wanna be your [C]left hand man\r\nI [Am]love you [G]when you're singing that [C]song and\r\nI got a lump in my [Am]throat 'cause\r\n[G]You're gonna sing the [C]words wrong\r\n{end_of_chorus}\r\n\r\n{start_of_verse: Verse 2}\r\n[Am]There's this movie [G]that I think you'll [C]like\r\n[Am]This guy decides to [G]quit his job and [C]heads to New York City\r\n[Am]This cowboy's [G]running from him[C]self\r\n[Am]And she's been [G]living on the [C]highest shelf\r\n{end_of_verse}\r\n\r\n{start_of_bridge: Pre-Chorus}\r\n[Am]Ah [G]ooh, [C]ah ooh, and they [Am]come un[G]stuck [C]\r\n{end_of_bridge}\r\n\r\n{chorus}\r\n\r\n{start_of_bridge: Bridge}\r\n[Am]I just wanna, I just wanna [G]know\r\n[C]If you're gonna, if you're gonna [F]stay\r\n[Am]I just gotta, I just gotta [G]know\r\n[C]I can't have it, I can't have it [F]any other way\r\n{end_of_bridge}\r\n\r\n{chorus}\r\n\r\n{comment: Repeat chorus to end}\r\n",
+      "createdAt": 1792125726724,
+      "updatedAt": 1792125726724
+    },
+    {
+      "id": "seed-should-i-stay-or-should-i-go",
+      "title": "Should I Stay or Should I Go",
+      "artist": "The Clash",
+      "key": "D",
+      "bpm": 114,
+      "duration": 186,
+      "tags": [
+        "punk",
+        "rock",
+        "crowd-pleaser",
+        "upbeat"
+      ],
+      "content": "{title: Should I Stay or Should I Go}\r\n{artist: The Clash}\r\n{key: D}\r\n{bpm: 114}\r\n{time: 4/4}\r\n{duration: 3:06}\r\n{tags: punk, rock, crowd-pleaser, upbeat}\r\n\r\n{start_of_verse: Verse 1}\r\n[D]Darlin' you got to let me know\r\n[G]Should I stay or should I [D]go\r\n[D]If you say that you are mine\r\n[G]I'll be here 'til the end of [D]time\r\n{end_of_verse}\r\n\r\n{start_of_chorus: Chorus}\r\nSo you [A]got to let me [G]know\r\n[D]Should I stay or should I [D]go\r\n{end_of_chorus}\r\n\r\n{start_of_verse: Verse 2}\r\n[D]It's always tease, tease, tease\r\n[G]You're happy when I'm on my [D]knees\r\n[D]One day it's fine and next it's black\r\n[G]So if you want me off your [D]back\r\n{end_of_verse}\r\n\r\n{start_of_chorus: Chorus}\r\nWell come [A]on and let me [G]know\r\n[D]Should I stay or should I [D]go\r\n{end_of_chorus}\r\n\r\n{start_of_bridge: Bridge}\r\n[D]Should I stay or should I [G]go now [D]\r\n[D]Should I stay or should I [G]go now [D]\r\n[D]If I go there will be [A]trouble\r\n[D]And if I stay it will be [G]double\r\nSo come [A]on and let me [G]know\r\n{end_of_bridge}\r\n\r\n{start_of_verse: Verse 3}\r\n[D]This indecision's bugging me\r\n[G]If you don't want me set me [D]free\r\n[D]Exactly whom I'm supposed to be\r\n[G]Don't you know which clothes even [D]fit me\r\n{end_of_verse}\r\n\r\n{start_of_chorus: Chorus}\r\nCome on [A]and let me [G]know\r\n[D]Should I cool it or should I [D]blow\r\n{end_of_chorus}\r\n\r\n{start_of_bridge: Bridge}\r\n[D]Should I stay or should I [G]go now [D]\r\n[D]Should I stay or should I [G]go now [D]\r\n[D]If I go there will be [A]trouble\r\n[D]And if I stay it will be [G]double\r\nSo you [A]gotta let me [G]know\r\n[D]Should I stay or should I [D]go\r\n{end_of_bridge}\r\n",
+      "createdAt": 1792125726724,
+      "updatedAt": 1792125726724
+    },
+    {
+      "id": "seed-smoke-on-the-water",
+      "title": "Smoke on the Water",
+      "artist": "Deep Purple",
+      "key": "Gm",
+      "bpm": 112,
+      "duration": 340,
+      "tags": [
+        "classic-rock",
+        "iconic-riff",
+        "crowd-pleaser"
+      ],
+      "techNotes": "Red wash on stage during riff. Fog machine on the organ solo. Cut fog before last chorus.",
+      "content": "{title: Smoke on the Water}\r\n{artist: Deep Purple}\r\n{key: Gm}\r\n{bpm: 112}\r\n{time: 4/4}\r\n{duration: 5:40}\r\n{tags: classic-rock, iconic-riff, crowd-pleaser}\r\n{tech_notes: Red wash on stage during riff. Fog machine on the organ solo. Cut fog before last chorus.}\r\n\r\n{comment: 21B 🎸🎹🥁 · Overdrive on}\r\n\r\n{start_of_tab: The riff, for=guitar}\r\ne|-----------------|-----------------|\r\nB|-----------------|-----------------|\r\nG|--0--3--5--------|--0--3--6--5-----|\r\nD|--0--3--5--------|--0--3--6--5-----|\r\n{end_of_tab}\r\n\r\n{start_of_note: Brass, for=trumpet}\r\nStabs on beats 2 and 4 from bar 9, fall off on the last chorus.\r\n{end_of_note}\r\n\r\n{start_of_note: Organ, for=keys}\r\nHammond doubles the riff from bar 5. Leslie fast on the chorus.\r\n{end_of_note}\r\n\r\n{start_of_verse: Verse 1}\r\n[Gm]We all came out to Montreux\r\nOn the [F]Lake Geneva [Gm]shoreline\r\n[Gm]To make records with a mobile\r\n[F]We didn't have much [Gm]time\r\n[Gm]Frank Zappa and the Mothers\r\nWere [F]at the best place a[Gm]round\r\n[Gm]But some stupid with a flare gun\r\n[F]Burned the place to the [Gm]ground\r\n{end_of_verse}\r\n\r\n{start_of_chorus: Chorus}\r\n[C]Smoke on the [Ab]water, [Gm]a fire in the sky\r\n[C]{soh}Smoke on the [Ab]water{eoh} [Gm]\r\n{end_of_chorus}\r\n\r\n{start_of_verse: Verse 2}\r\n[Gm]They burned down the gambling house\r\nIt [F]died with an awful [Gm]sound\r\n[Gm]Funky Claude was running in and out\r\n[F]Pulling kids out the [Gm]ground\r\n[Gm]When it all was over\r\nWe [F]had to find another [Gm]place\r\n[Gm]But Swiss time was running out\r\nIt [F]seemed that we would lose the [Gm]race\r\n{end_of_verse}\r\n\r\n{chorus}\r\n\r\n{c: Bass and drums only for 4 bars ↘}\r\n\r\n{start_of_verse: Verse 3}\r\n[Gm]We ended up at the Grand Hotel\r\nIt was [F]empty, cold and [Gm]bare\r\n[Gm]But with the Rolling truck Stones thing just outside\r\n[F]Making our music [Gm]there\r\n[Gm]With a few red lights, a few old beds\r\nWe [F]made a place to [Gm]sweat\r\n[Gm]No matter what we get out of this\r\nI [F]know, I know we'll never for[Gm]get\r\n{end_of_verse}\r\n\r\n{chorus}\r\n\r\n{comment: Guitar solo over verse chords, then repeat chorus to end}\r\n",
+      "createdAt": 1792125726725,
+      "updatedAt": 1792125726725
+    },
+    {
+      "id": "seed-stand-by-me",
+      "title": "Stand By Me",
+      "artist": "Ben E. King",
+      "key": "A",
+      "bpm": 120,
+      "duration": 178,
+      "tags": [
+        "classic",
+        "soul",
+        "singalong",
+        "ballad"
+      ],
+      "content": "{title: Stand By Me}\r\n{artist: Ben E. King}\r\n{key: A}\r\n{bpm: 120}\r\n{time: 4/4}\r\n{duration: 2:58}\r\n{tags: classic, soul, singalong, ballad}\r\n\r\n{start_of_verse: Verse 1}\r\nWhen the [A]night has come\r\n[F#m]And the land is dark\r\nAnd the [D]moon is the [E]only light we'll [A]see\r\nNo I [A]won't be afraid\r\nOh I [F#m]won't be afraid\r\nJust as [D]long as you [E]stand, stand by [A]me\r\n{end_of_verse}\r\n\r\n{start_of_chorus: Chorus}\r\nSo [A]darlin', darlin', stand by me\r\nOh [F#m]stand by me\r\nOh [D]stand, [E]stand by me, [A]stand by me\r\n{end_of_chorus}\r\n\r\n{start_of_verse: Verse 2}\r\nIf the [A]sky that we look upon\r\n[F#m]Should tumble and fall\r\nOr the [D]mountain should [E]crumble to the [A]sea\r\nI won't [A]cry, I won't cry\r\nNo I [F#m]won't shed a tear\r\nJust as [D]long as you [E]stand, stand by [A]me\r\n{end_of_verse}\r\n\r\n{chorus}\r\n\r\n{comment: Instrumental break over verse chords}\r\n\r\n{chorus}\r\n\r\n{comment: Repeat chorus to fade}\r\n",
+      "createdAt": 1792125726725,
+      "updatedAt": 1792125726725
+    },
+    {
+      "id": "seed-sultans-of-swing",
+      "title": "Sultans of Swing",
+      "artist": "Dire Straits",
+      "key": "Dm",
+      "bpm": 148,
+      "duration": 348,
+      "tags": [
+        "classic-rock",
+        "guitar-showcase",
+        "iconic-riff"
+      ],
+      "techNotes": "Spotlight follows lead guitar. Tight solo spot for the outro. Keep stage dark during fingerpicking intro.",
+      "content": "{title: Sultans of Swing}\r\n{artist: Dire Straits}\r\n{key: Dm}\r\n{bpm: 148}\r\n{time: 4/4}\r\n{duration: 5:48}\r\n{tags: classic-rock, guitar-showcase, iconic-riff}\r\n{tech_notes: Spotlight follows lead guitar. Tight solo spot for the outro. Keep stage dark during fingerpicking intro.}\r\n\r\n{start_of_verse: Verse 1}\r\n[Dm]You get a shiver in the dark\r\nIt's been [C]raining in the [Bb]park but mean[A]time\r\n[Dm]South of the river you [C]stop and you [Bb]hold every[A]thing\r\nA [F]band is blowing Dixie [C]double four time\r\n[Bb]You feel alright when you hear that music [Dm]ring [Bb] [C]\r\n{end_of_verse}\r\n\r\n{start_of_verse: Verse 2}\r\n[Dm]Well now you step inside but you [C]don't see [Bb]too many [A]faces\r\n[Dm]Coming in out of the [C]rain they hear the [Bb]jazz go [A]down\r\n[F]Competition in other [C]places\r\n[Bb]But the horns, they blowin' that [Dm]sound [Bb] [C]\r\n{end_of_verse}\r\n\r\n{start_of_chorus: Chorus}\r\nWay on [Bb]down south, [C]way on [Bb]down south\r\n[C]London [Dm]town [Bb] [C]\r\n{end_of_chorus}\r\n\r\n{start_of_verse: Verse 3}\r\n[Dm]Check out Guitar George, he [C]knows all the [Bb]chords [A]\r\n[Dm]Mind, he's strictly rhythm, he [C]doesn't wanna make it [Bb]cry or [A]sing\r\n[F]Then an old guitar is [C]all he can afford\r\n[Bb]When he gets up under the lights to play his [Dm]thing [Bb] [C]\r\n{end_of_verse}\r\n\r\n{start_of_verse: Verse 4}\r\n[Dm]And Harry doesn't [C]mind if he [Bb]doesn't make the [A]scene\r\n[Dm]He's got a day time [C]job, he's doing al[Bb]right [A]\r\n[F]He can play the honky tonk like [C]anything\r\n[Bb]Savin' it up for Friday [Dm]night [Bb] [C]\r\n{end_of_verse}\r\n\r\n{start_of_chorus: Chorus}\r\nWith the [Bb]Sultans, [C]with the [Bb]Sultans of [C]Swing [Dm] [Bb] [C]\r\n{end_of_chorus}\r\n\r\n{comment: Guitar solo over verse chords — the highlight of the song}\r\n\r\n{start_of_verse: Verse 5}\r\n[Dm]And a crowd of young boys, they're [C]foolin' a[Bb]round in the [A]corner\r\n[Dm]Drunk and dressed in their [C]best brown baggies [Bb]and their platform [A]soles\r\n[F]They don't give a damn about [C]any trumpet playin' band\r\n[Bb]It ain't what they call rock and [Dm]roll [Bb] [C]\r\n{end_of_verse}\r\n\r\n{start_of_chorus: Chorus}\r\nAnd the [Bb]Sultans, [C]yeah the [Bb]Sultans are [C]playing [Dm]Creole [Bb] [C]\r\n{end_of_chorus}\r\n",
+      "createdAt": 1792125726726,
+      "updatedAt": 1792125726726
+    },
+    {
+      "id": "seed-summer-of-69",
+      "title": "Summer of '69",
+      "artist": "Bryan Adams",
+      "key": "D",
+      "bpm": 138,
+      "duration": 215,
+      "tags": [
+        "rock",
+        "classic",
+        "crowd-pleaser",
+        "upbeat"
+      ],
+      "content": "{title: Summer of '69}\r\n{artist: Bryan Adams}\r\n{key: D}\r\n{bpm: 138}\r\n{time: 4/4}\r\n{duration: 3:35}\r\n{tags: rock, classic, crowd-pleaser, upbeat}\r\n\r\n{start_of_verse: Verse 1}\r\n[D]I got my first real six-string\r\n[A]Bought it at the five-and-dime\r\n[D]Played it 'til my fingers bled\r\n[A]Was the summer of '69\r\n{end_of_verse}\r\n\r\n{start_of_verse: Verse 2}\r\n[D]Me and some guys from school\r\n[A]Had a band and we tried real hard\r\n[D]Jimmy quit, Jody got married\r\n[A]I should've known we'd never get far\r\n{end_of_verse}\r\n\r\n{start_of_chorus: Chorus}\r\n[Bm]Oh, when I [A]look back now\r\n[D]That summer seemed to [G]last forever\r\n[Bm]And if I [A]had the choice\r\n[D]Yeah, I'd always [G]wanna be there\r\n[Bm]Those were the [A]best days of my [D]life [A]\r\n{end_of_chorus}\r\n\r\n{start_of_verse: Verse 3}\r\n[D]Ain't no use in complainin'\r\n[A]When you've got a job to do\r\n[D]Spent my evenings down at the drive-in\r\n[A]And that's when I met you, yeah\r\n{end_of_verse}\r\n\r\n{chorus}\r\n\r\n{start_of_bridge: Bridge}\r\n[F]Man we were [Bb]killin' time\r\nWe were [C]young and restless, we [Bb]needed to unwind\r\n[F]I guess [Bb]nothin' can last for[C]ever, forever, no!\r\n{end_of_bridge}\r\n\r\n{start_of_verse: Verse 4}\r\n[D]And now the times are changin'\r\n[A]Look at everything that's come and gone\r\n[D]Sometimes when I play that old six-string\r\n[A]I think about you, wonder what went wrong\r\n{end_of_verse}\r\n\r\n{chorus}\r\n\r\n{comment: End on big D chord, let it ring}\r\n",
+      "createdAt": 1792125726726,
+      "updatedAt": 1792125726726
+    },
+    {
+      "id": "seed-sweet-child-o-mine",
+      "title": "Sweet Child O' Mine",
+      "artist": "Guns N' Roses",
+      "key": "D",
+      "bpm": 122,
+      "duration": 356,
+      "tags": [
+        "rock",
+        "classic",
+        "iconic-riff",
+        "crowd-pleaser"
+      ],
+      "techNotes": "Spotlight on guitar for intro riff. Full stage lights on verse entry. Big reverb on vocals for chorus.",
+      "content": "{title: Sweet Child O' Mine}\r\n{artist: Guns N' Roses}\r\n{key: D}\r\n{bpm: 122}\r\n{time: 4/4}\r\n{duration: 5:56}\r\n{tags: rock, classic, iconic-riff, crowd-pleaser}\r\n{tech_notes: Spotlight on guitar for intro riff. Full stage lights on verse entry. Big reverb on vocals for chorus.}\r\n\r\n{comment: Iconic intro riff over D chord}\r\n\r\n{start_of_verse: Verse 1}\r\n[D]She's got a smile that it seems to me\r\nRe[C]minds me of childhood memories\r\nWhere [G]everything was as fresh\r\nAs the [D]bright blue sky\r\n[D]Now and then when I see her face\r\nShe [C]takes me away to that special place\r\nAnd if I [G]stared too long\r\nI'd probably [D]break down and cry\r\n{end_of_verse}\r\n\r\n{start_of_chorus: Chorus}\r\n[A]Oh, oh, oh [C]sweet child o' [D]mine\r\n[A]Oh, oh, oh, oh [C]sweet love o' [D]mine\r\n{end_of_chorus}\r\n\r\n{start_of_verse: Verse 2}\r\n[D]She's got eyes of the bluest skies\r\nAs [C]if they thought of rain\r\nI'd [G]hate to look into those eyes\r\nAnd [D]see an ounce of pain\r\n[D]Her hair reminds me of a warm safe place\r\nWhere [C]as a child I'd hide\r\nAnd [G]pray for the thunder and the rain\r\nTo [D]quietly pass me by\r\n{end_of_verse}\r\n\r\n{chorus}\r\n\r\n{start_of_bridge: Bridge}\r\n[Em] [C] [B7] [Am]\r\n[Em] [C] [B7] [Am]\r\n{end_of_bridge}\r\n\r\n{start_of_verse: Outro}\r\n[E5]Where do we go? Where do we go now?\r\n[G5]Where do we go?\r\n[A5] [C5] [D5]\r\n[E5]Where do we go now?\r\n{end_of_verse}\r\n\r\n{comment: Repeat outro, build intensity}\r\n",
+      "createdAt": 1792125726727,
+      "updatedAt": 1792125726727
+    },
+    {
+      "id": "seed-sweet-home-alabama",
+      "title": "Sweet Home Alabama",
+      "artist": "Lynyrd Skynyrd",
+      "key": "G",
+      "bpm": 100,
+      "duration": 283,
+      "tags": [
+        "southern-rock",
+        "classic",
+        "crowd-pleaser",
+        "anthem"
+      ],
+      "content": "{title: Sweet Home Alabama}\r\n{artist: Lynyrd Skynyrd}\r\n{key: G}\r\n{bpm: 100}\r\n{time: 4/4}\r\n{duration: 4:43}\r\n{tags: southern-rock, classic, crowd-pleaser, anthem}\r\n\r\n{start_of_verse: Intro / Riff}\r\n[D] [C] [G]\r\n[D] [C] [G]\r\n{end_of_verse}\r\n\r\n{start_of_verse: Verse 1}\r\n[D]Big [C]wheels keep on [G]turning\r\n[D]Carry me [C]home to see my [G]kin\r\n[D]Singing [C]songs about the [G]southland\r\n[D]I miss ole [C]'Bamy once [G]again, and I think it's a sin, yes\r\n{end_of_verse}\r\n\r\n{start_of_verse: Verse 2}\r\n[D]Well I heard Mister [C]Young sing a[G]bout her\r\n[D]Well I heard ole [C]Neil put her [G]down\r\n[D]Well I hope Neil [C]Young will re[G]member\r\n[D]A southern [C]man don't need him a[G]round anyhow\r\n{end_of_verse}\r\n\r\n{start_of_chorus: Chorus}\r\n[D]Sweet [C]home Ala[G]bama\r\n[D]Where the [C]skies are so [G]blue\r\n[D]Sweet [C]home Ala[G]bama\r\n[D]Lord, I'm [C]coming home to [G]you\r\n{end_of_chorus}\r\n\r\n{start_of_verse: Verse 3}\r\n[D]In Birming[C]ham they love the [G]Gov'nor, boo boo boo\r\n[D]Now we all [C]did what we could [G]do\r\n[D]Now Water[C]gate does not [G]bother me\r\n[D]Does your [C]conscience bother [G]you? Tell the truth\r\n{end_of_verse}\r\n\r\n{chorus}\r\n\r\n{start_of_verse: Verse 4}\r\n[D]Now Muscle [C]Shoals has got the [G]Swampers\r\n[D]And they've been [C]known to pick a song or [G]two\r\n[D]Lord they [C]get me off [G]so much\r\n[D]They pick me [C]up when I'm feeling [G]blue, now how about you?\r\n{end_of_verse}\r\n\r\n{chorus}\r\n\r\n{comment: Repeat chorus and solo over D-C-G to fade}\r\n",
+      "createdAt": 1792125726728,
+      "updatedAt": 1792125726728
+    },
+    {
+      "id": "seed-take-me-home-country-roads",
+      "title": "Take Me Home, Country Roads",
+      "artist": "John Denver",
+      "key": "A",
+      "bpm": 82,
+      "duration": 197,
+      "tags": [
+        "country",
+        "folk",
+        "singalong",
+        "anthem"
+      ],
+      "content": "{title: Take Me Home, Country Roads}\r\n{artist: John Denver}\r\n{key: A}\r\n{bpm: 82}\r\n{time: 4/4}\r\n{duration: 3:17}\r\n{tags: country, folk, singalong, anthem}\r\n\r\n{start_of_verse: Verse 1}\r\n[A]Almost heaven, [F#m]West Virginia\r\n[E]Blue Ridge Mountains, [D]Shenandoah [A]River\r\n[A]Life is old there, [F#m]older than the trees\r\n[E]Younger than the mountains, [D]growin' like a [A]breeze\r\n{end_of_verse}\r\n\r\n{start_of_chorus: Chorus}\r\n[A]Country roads, take me [E]home\r\nTo the [F#m]place I be[D]long\r\nWest Vir[A]ginia, mountain [E]mama\r\nTake me [D]home, country [A]roads\r\n{end_of_chorus}\r\n\r\n{start_of_verse: Verse 2}\r\n[A]All my memories [F#m]gather 'round her\r\n[E]Miner's lady, [D]stranger to blue [A]water\r\n[A]Dark and dusty, [F#m]painted on the sky\r\n[E]Misty taste of moonshine, [D]teardrop in my [A]eye\r\n{end_of_verse}\r\n\r\n{chorus}\r\n\r\n{start_of_bridge: Bridge}\r\n[F#m]I hear her [E]voice, in the [A]mornin' hour she calls me\r\nThe [D]radio re[A]minds me of my [E]home far away\r\nAnd [F#m]drivin' down the [G]road I get a [D]feelin'\r\nThat I [A]should have been home [E]yesterday, yester[E7]day\r\n{end_of_bridge}\r\n\r\n{chorus}\r\n\r\n{start_of_chorus: Outro}\r\nTake me [E]home, down country [A]roads\r\nTake me [E]home, down country [A]roads\r\n{end_of_chorus}\r\n",
+      "createdAt": 1792125726728,
+      "updatedAt": 1792125726728
+    },
+    {
+      "id": "seed-three-little-birds",
+      "title": "Three Little Birds",
+      "artist": "Bob Marley & The Wailers",
+      "key": "A",
+      "bpm": 74,
+      "duration": 178,
+      "tags": [
+        "reggae",
+        "classic",
+        "feel-good",
+        "opener"
+      ],
+      "notes": "Only 3 chords. Reggae off-beat strum is everything — mute on 1 and 3, strum on the and of 2 and 4.",
+      "content": "{title: Three Little Birds}\r\n{artist: Bob Marley & The Wailers}\r\n{key: A}\r\n{bpm: 74}\r\n{time: 4/4}\r\n{duration: 2:58}\r\n{tags: reggae, classic, feel-good, opener}\r\n{notes: Only 3 chords. Reggae off-beat strum is everything — mute on 1 and 3, strum on the and of 2 and 4.}\r\n\r\n{start_of_chorus: Chorus}\r\n[A]Don't worry about a thing\r\n[D]'Cause every little thing gonna [A]be all right\r\n[A]Singin' don't worry about a thing\r\n[D]'Cause every little thing gonna [A]be all right\r\n{end_of_chorus}\r\n\r\n{start_of_verse: Verse}\r\n[A]Rise up this mornin', smiled with the [E]risin' sun\r\n[A]Three little birds pitch by [D]my doorstep\r\n[A]Singin' sweet songs of [E]melodies pure and true\r\n[D]Sayin', \"This is my message to [A]you-ou-ou\"\r\n{end_of_verse}\r\n\r\n{chorus}\r\n\r\n{start_of_verse: Verse}\r\n[A]Rise up this mornin', smiled with the [E]risin' sun\r\n[A]Three little birds pitch by [D]my doorstep\r\n[A]Singin' sweet songs of [E]melodies pure and true\r\n[D]Sayin', \"This is my message to [A]you-ou-ou\"\r\n{end_of_verse}\r\n\r\n{chorus}\r\n\r\n{start_of_verse: Verse}\r\n[A]Rise up this mornin', smiled with the [E]risin' sun\r\n[A]Three little birds pitch by [D]my doorstep\r\n[A]Singin' sweet songs of [E]melodies pure and true\r\n[D]Sayin', \"This is my message to [A]you-ou-ou\"\r\n{end_of_verse}\r\n\r\n{chorus}\r\n\r\n{comment: Repeat chorus to fade, keep it joyful}\r\n\r\n{start_of_note: Strum Pattern, for=guitar}\r\nDown on beat 2-and, down-up on beat 4-and.\r\nMute the strings on beats 1 and 3 for the classic reggae chop.\r\n\r\n    1  +  2  +  3  +  4  +\r\n    x     D     x     D  U\r\n{end_of_note}\r\n\r\n{start_of_note: Bass Line, for=bass}\r\nRoot note on beat 1, fifth on beat 3.\r\nKeep it simple and locked with the kick drum.\r\nA section: A(1) - E(3)\r\nD section: D(1) - A(3)\r\nE section: E(1) - B(3)\r\n{end_of_note}\r\n",
+      "createdAt": 1792125726729,
+      "updatedAt": 1792125726729
+    },
+    {
+      "id": "seed-twist-and-shout",
+      "title": "Twist and Shout",
+      "artist": "The Beatles",
+      "key": "D",
+      "bpm": 125,
+      "duration": 153,
+      "tags": [
+        "rock-n-roll",
+        "classic",
+        "crowd-pleaser",
+        "upbeat"
+      ],
+      "content": "{title: Twist and Shout}\r\n{artist: The Beatles}\r\n{key: D}\r\n{bpm: 125}\r\n{time: 4/4}\r\n{duration: 2:33}\r\n{tags: rock-n-roll, classic, crowd-pleaser, upbeat}\r\n\r\n{start_of_chorus: Chorus}\r\nWell [D]shake it up [G]baby now, [A]twist and [A7]shout\r\n[D]Come on, come on, [G]come on, come on, [A]baby now [A7]\r\nCome on and [D]work it on [G]out [A] [A7]\r\n{end_of_chorus}\r\n\r\n{start_of_verse: Verse 1}\r\nWell [D]work it on [G]out [A]honey [A7]\r\nYou [D]know you look so [G]good [A] [A7]\r\nYou [D]know you got me [G]goin' now [A] [A7]\r\nJust like I [D]knew you [G]would [A] [A7]\r\n{end_of_verse}\r\n\r\n{chorus}\r\n\r\n{start_of_verse: Verse 2}\r\nYou [D]know you twist little [G]girl [A] [A7]\r\nYou [D]know you twist so [G]fine [A] [A7]\r\n[D]Come on and twist a little [G]closer now [A] [A7]\r\nAnd let me [D]know that you're [G]mine [A] [A7]\r\n{end_of_verse}\r\n\r\n{chorus}\r\n\r\n{comment: \"Aaaaaah\" section — build and scream!}\r\n\r\n{chorus}\r\n\r\n{comment: Repeat, build to frenzy, end big on D}\r\n",
+      "createdAt": 1792125726729,
+      "updatedAt": 1792125726729
+    },
+    {
+      "id": "seed-use-somebody",
+      "title": "Use Somebody",
+      "artist": "Kings of Leon",
+      "key": "C",
+      "bpm": 135,
+      "duration": 230,
+      "tags": [
+        "indie-rock",
+        "anthem",
+        "2000s",
+        "crowd-pleaser"
+      ],
+      "content": "{title: Use Somebody}\r\n{artist: Kings of Leon}\r\n{key: C}\r\n{bpm: 135}\r\n{time: 4/4}\r\n{duration: 3:50}\r\n{tags: indie-rock, anthem, 2000s, crowd-pleaser}\r\n\r\n{start_of_verse: Verse 1}\r\n[C]I've been roaming a[Em]round, always looking down\r\nAt [Am]all I see\r\n[F]Painted faces fill the [C]places I can't reach\r\n{end_of_verse}\r\n\r\n{start_of_verse: Verse 2}\r\n[C]You know that I could [Em]use somebody\r\n[Am]You know that I could [F]use somebody\r\n{end_of_verse}\r\n\r\n{start_of_verse: Verse 3}\r\n[C]Someone like you and [Em]all you know and how you [Am]speak\r\nCountless lovers under[F]cover of the street\r\n{end_of_verse}\r\n\r\n{start_of_verse: Verse 4}\r\n[C]You know that I could [Em]use somebody\r\n[Am]You know that I could [F]use somebody\r\n{end_of_verse}\r\n\r\n{start_of_chorus: Chorus}\r\n[C]Someone like [Em]you [Am] [F]\r\nOh, [C]someone like [Em]you [Am] [F]\r\n{end_of_chorus}\r\n\r\n{start_of_verse: Verse 5}\r\n[C]Off in the night while you [Em]live it up I'm off to [Am]sleep\r\nWaging wars to shape the [F]poet and the beat\r\n{end_of_verse}\r\n\r\n{start_of_verse: Verse 6}\r\n[C]I hope it's gonna [Em]make you notice\r\n[Am]I hope it's gonna [F]make you notice\r\n{end_of_verse}\r\n\r\n{start_of_chorus: Chorus}\r\n[C]Someone like [Em]me [Am] [F]\r\nOh, [C]someone like [Em]me [Am] [F]\r\nOh, [C]someone like [Em]me, some[Am]body [F]\r\n{end_of_chorus}\r\n\r\n{start_of_bridge: Bridge}\r\n[Am]I'm ready now, [Am]I'm ready now\r\n[F]I'm ready now, [F]I'm ready now\r\n[Am]I'm ready now, [Am]I'm ready now\r\n[F]I'm ready now [F]\r\n{end_of_bridge}\r\n\r\n{start_of_chorus: Chorus}\r\n[C]Someone like [Em]you [Am] [F]\r\nOh, [C]someone like [Em]you [Am] [F]\r\nOh, [C]someone like [Em]you, some[Am]body [F]\r\n{end_of_chorus}\r\n",
+      "createdAt": 1792125726730,
+      "updatedAt": 1792125726730
+    },
+    {
+      "id": "seed-wagon-wheel",
+      "title": "Wagon Wheel",
+      "artist": "Old Crow Medicine Show",
+      "key": "A",
+      "bpm": 152,
+      "duration": 235,
+      "tags": [
+        "country",
+        "folk",
+        "singalong",
+        "crowd-pleaser"
+      ],
+      "content": "{title: Wagon Wheel}\r\n{artist: Old Crow Medicine Show}\r\n{key: A}\r\n{bpm: 152}\r\n{time: 4/4}\r\n{duration: 3:55}\r\n{tags: country, folk, singalong, crowd-pleaser}\r\n\r\n{start_of_verse: Verse 1}\r\n[A]Headed down south to the [E]land of the pines\r\nI'm [F#m]thumbin' my way into [D]North Caroline\r\n[A]Starin' up the road and [E]pray to God I see [D]headlights\r\n[A]I made it down the coast in [E]seventeen hours\r\n[F#m]Pickin' me a bouquet of [D]dogwood flowers\r\nAnd I'm a-[A]hopin' for Raleigh, I can [E]see my baby to[D]night\r\n{end_of_verse}\r\n\r\n{start_of_chorus: Chorus}\r\nSo [A]rock me mama like a [E]wagon wheel\r\n[F#m]Rock me mama any [D]way you feel\r\n[A]Hey, [E]mama [D]rock me\r\n[A]Rock me mama like the [E]wind and the rain\r\n[F#m]Rock me mama like a [D]south-bound train\r\n[A]Hey, [E]mama [D]rock me\r\n{end_of_chorus}\r\n\r\n{start_of_verse: Verse 2}\r\n[A]Runnin' from the cold up in [E]New England\r\nI was [F#m]born to be a fiddler in an [D]old-time string band\r\nMy [A]baby plays the guitar, [E]I pick a banjo [D]now\r\n[A]Oh, the north country [E]winters keep a-gettin' me down\r\nI [F#m]lost my money playin' [D]poker so I had to leave town\r\nBut I [A]ain't a-turnin' back to [E]livin' that old life no [D]more\r\n{end_of_verse}\r\n\r\n{chorus}\r\n\r\n{start_of_verse: Verse 3}\r\n[A]Walkin' to the south [E]out of Roanoke\r\nI caught a [F#m]trucker out of Philly, had a [D]nice long toke\r\nBut [A]he's a-headed west from the [E]Cumberland [D]Gap\r\nTo [A]Johnson City, [E]Tennessee\r\nAnd [F#m]he's gotta get a [D]move on before the sun\r\nI hear my [A]baby callin' my name and I [E]know that she's the only [D]one\r\n{end_of_verse}\r\n\r\n{chorus}\r\n\r\n{comment: Big singalong ending, let the crowd carry the last chorus}\r\n",
+      "createdAt": 1792125726730,
+      "updatedAt": 1792125726730
+    },
+    {
+      "id": "seed-wish-you-were-here",
+      "title": "Wish You Were Here",
+      "artist": "Pink Floyd",
+      "key": "G",
+      "bpm": 60,
+      "duration": 334,
+      "tags": [
+        "classic-rock",
+        "acoustic",
+        "emotional",
+        "singalong"
+      ],
+      "content": "{title: Wish You Were Here}\r\n{artist: Pink Floyd}\r\n{key: G}\r\n{bpm: 60}\r\n{time: 4/4}\r\n{duration: 5:34}\r\n{tags: classic-rock, acoustic, emotional, singalong}\r\n\r\n{start_of_verse: Intro}\r\n[Em7] [G] [Em7] [G]\r\n[Em7] [A7sus4] [Em7] [A7sus4]\r\n[G] [G]\r\n{end_of_verse}\r\n\r\n{start_of_verse: Verse 1}\r\n[C]So, so you think you can [D]tell\r\nHeaven from [Am]hell, blue skies from [G]pain\r\nCan you tell a green [D]field from a cold steel [C]rail\r\nA smile from a [Am]veil, do you think you can [G]tell\r\n{end_of_verse}\r\n\r\n{start_of_verse: Verse 2}\r\nDid they get you to [C]trade your heroes for [D]ghosts\r\nHot ashes for [Am]trees, hot air for a [G]cool breeze\r\nCold comfort for [D]change, did you ex[C]change\r\nA walk-on part in the [Am]war for a lead role in a [G]cage\r\n{end_of_verse}\r\n\r\n{start_of_chorus: Chorus}\r\n[Em7]How I wish, how I wish you were [A7sus4]here\r\nWe're just [G]two lost souls swimming in a fish bowl\r\n[Em7]Year after year\r\n[A7sus4]Running over the same old ground\r\n[G]What have we found? The same old fears\r\n[Em7]Wish you were [G]here\r\n{end_of_chorus}\r\n\r\n{comment: Repeat intro picking, then repeat verse and chorus}\r\n\r\n{chorus}\r\n",
+      "createdAt": 1792125726731,
+      "updatedAt": 1792125726731
+    },
+    {
+      "id": "seed-wonderwall",
+      "title": "Wonderwall",
+      "artist": "Oasis",
+      "key": "F#m",
+      "bpm": 87,
+      "duration": 258,
+      "tags": [
+        "britpop",
+        "classic",
+        "singalong",
+        "acoustic"
+      ],
+      "techNotes": "House lights up — crowd will sing. Cut monitors, vocals through FOH only. Warm amber wash.",
+      "content": "{title: Wonderwall}\r\n{artist: Oasis}\r\n{key: F#m}\r\n{bpm: 87}\r\n{time: 4/4}\r\n{duration: 4:18}\r\n{tags: britpop, classic, singalong, acoustic}\r\n{tech_notes: House lights up — crowd will sing. Cut monitors, vocals through FOH only. Warm amber wash.}\r\n\r\n{start_of_verse: Verse 1}\r\n[Em7]Today is [G]gonna be the day that they're\r\n[Dsus4]Gonna throw it back to [A7sus4]you\r\n[Em7]By now you [G]should've somehow\r\nRe-a[Dsus4]lized what you gotta [A7sus4]do\r\n[Em7]I don't believe that [G]anybody\r\n[Dsus4]Feels the way I [A7sus4]do\r\nAbout you [Em7]now [G] [Dsus4] [A7sus4]\r\n{end_of_verse}\r\n\r\n{start_of_verse: Verse 2}\r\n[Em7]Backbeat, the [G]word is on the street that the\r\n[Dsus4]Fire in your heart is [A7sus4]out\r\n[Em7]I'm sure you've [G]heard it all before but you\r\n[Dsus4]Never really had a [A7sus4]doubt\r\n[Em7]I don't believe that [G]anybody\r\n[Dsus4]Feels the way I [A7sus4]do\r\nAbout you [Em7]now [G] [Dsus4] [A7sus4]\r\n{end_of_verse}\r\n\r\n{start_of_bridge: Pre-Chorus}\r\nAnd [C]all the roads we [D]have to walk are [Em7]winding\r\nAnd [C]all the lights that [D]lead us there are [Em7]blinding\r\n[C]There are many [D]things that I would\r\n[G]Like to [D/F#]say to [Em7]you but I don't know [A7sus4]how\r\n{end_of_bridge}\r\n\r\n{start_of_chorus: Chorus}\r\nBecause [Em7]maybe [G] [Dsus4]\r\nYou're gonna be the one that [A7sus4]saves me\r\n[Em7]And after [G]all [Dsus4]\r\nYou're my wonder[A7sus4]wall\r\n{end_of_chorus}\r\n\r\n{start_of_verse: Verse 3}\r\n[Em7]Today was [G]gonna be the day but they'll\r\n[Dsus4]Never throw it back to [A7sus4]you\r\n[Em7]By now you [G]should've somehow\r\nRe-a[Dsus4]lized what you're not to [A7sus4]do\r\n[Em7]I don't believe that [G]anybody\r\n[Dsus4]Feels the way I [A7sus4]do\r\nAbout you [Em7]now [G] [Dsus4] [A7sus4]\r\n{end_of_verse}\r\n\r\n{start_of_bridge: Pre-Chorus}\r\nAnd [C]all the roads that [D]lead you there were [Em7]winding\r\nAnd [C]all the lights that [D]light the way are [Em7]blinding\r\n[C]There are many [D]things that I would\r\n[G]Like to [D/F#]say to [Em7]you but I don't know [A7sus4]how\r\n{end_of_bridge}\r\n\r\n{chorus}\r\n\r\n{chorus}\r\n\r\n{comment: Repeat chorus and fade}\r\n",
+      "createdAt": 1792125726731,
+      "updatedAt": 1792128427157,
+      "transposition": 0
+    },
+    {
+      "id": "seed-zombie",
+      "title": "Zombie",
+      "artist": "The Cranberries",
+      "key": "Em",
+      "bpm": 83,
+      "duration": 306,
+      "tags": [
+        "alternative",
+        "rock",
+        "90s",
+        "singalong"
+      ],
+      "techNotes": "Green/cold wash for verses. Hard red on chorus. Heavy delay on vocal \"zombie\" hits.",
+      "content": "{title: Zombie}\r\n{artist: The Cranberries}\r\n{key: Em}\r\n{bpm: 83}\r\n{time: 4/4}\r\n{duration: 5:06}\r\n{tags: alternative, rock, 90s, singalong}\r\n{tech_notes: Green/cold wash for verses. Hard red on chorus. Heavy delay on vocal \"zombie\" hits.}\r\n\r\n{start_of_verse: Verse 1}\r\n[Em]Another [C]head hangs lowly\r\n[G]Child is slowly [D/F#]taken\r\n[Em]And the violence [C]caused such silence\r\n[G]Who are we mis[D/F#]taken\r\n{end_of_verse}\r\n\r\n{start_of_verse: Pre-Chorus}\r\nBut you [Em]see, it's not me\r\nIt's not [C]my family\r\nIn your [G]head, in your head\r\nThey are [D/F#]fighting\r\n{end_of_verse}\r\n\r\n{start_of_verse: Verse 2}\r\nWith their [Em]tanks and their [C]bombs\r\nAnd their [G]bombs and their [D/F#]guns\r\nIn your [Em]head, in your [C]head\r\nThey are [G]crying [D/F#]\r\n{end_of_verse}\r\n\r\n{start_of_chorus: Chorus}\r\nIn your [Em]head, in your [C]head\r\nZom[G]bie, zom[D/F#]bie, zombie-ie-ie\r\nOh [Em]oh oh oh [C]oh oh oh oh\r\n[G]Oh oh [D/F#]oh oh\r\n{end_of_chorus}\r\n\r\n{start_of_verse: Verse 3}\r\n[Em]Another [C]mother's breakin'\r\n[G]Heart is taking [D/F#]over\r\n[Em]When the violence [C]causes silence\r\n[G]We must be mis[D/F#]taken\r\n{end_of_verse}\r\n\r\n{start_of_verse: Pre-Chorus}\r\nIt's the [Em]same old theme\r\nSince nine[C]teen-sixteen\r\nIn your [G]head, in your head\r\nThey're still [D/F#]fighting\r\n{end_of_verse}\r\n\r\n{start_of_verse}\r\nWith their [Em]tanks and their [C]bombs\r\nAnd their [G]bombs and their [D/F#]guns\r\nIn your [Em]head, in your [C]head\r\nThey are [G]dying [D/F#]\r\n{end_of_verse}\r\n\r\n{chorus}\r\n\r\n{chorus}\r\n",
+      "createdAt": 1792125726732,
+      "updatedAt": 1792125726732
+    }
+  ],
+  "setlists": [
+    {
+      "id": "seed-acoustic-sundown",
+      "name": "Acoustic Sundown",
+      "date": "2026-03-22",
+      "venue": "Garden Terrace Café",
+      "sets": [
+        {
+          "name": "Full Set",
+          "songIds": [
+            "seed-wish-you-were-here",
+            "seed-redemption-song",
+            "seed-jolene",
+            "seed-stand-by-me",
+            "seed-take-me-home-country-roads",
+            "seed-let-it-be",
+            "seed-wagon-wheel"
+          ]
+        }
+      ],
+      "notes": "Intimate setting, all acoustic. No PA — play quietly.",
+      "createdAt": 1792125726709,
+      "updatedAt": 1792125726709
+    },
+    {
+      "id": "seed-brit-rock",
+      "name": "Brit Rock",
+      "date": "2026-05-03",
+      "venue": "The Crown Pub",
+      "sets": [
+        {
+          "name": "Full Set",
+          "songIds": [
+            "seed-wonderwall",
+            "seed-don-t-look-back-in-anger",
+            "seed-mr-brightside",
+            "seed-zombie",
+            "seed-use-somebody"
+          ]
+        }
+      ],
+      "notes": "UK anthems. Expect the crowd to sing louder than you.",
+      "createdAt": 1792125726709,
+      "updatedAt": 1792125726709
+    },
+    {
+      "id": "seed-classic-rock-night",
+      "name": "Classic Rock Night",
+      "date": "2026-03-08",
+      "venue": "The Warehouse",
+      "sets": [
+        {
+          "name": "Set 1",
+          "songIds": [
+            "seed-smoke-on-the-water",
+            "seed-sweet-home-alabama",
+            "seed-summer-of-69",
+            "seed-eye-of-the-tiger",
+            "seed-should-i-stay-or-should-i-go"
+          ],
+          "notes": "High energy openers — keep the crowd moving"
+        },
+        {
+          "name": "Set 2",
+          "songIds": [
+            "seed-hotel-california",
+            "seed-sultans-of-swing",
+            "seed-sweet-child-o-mine",
+            "seed-livin-on-a-prayer"
+          ],
+          "notes": "Build to the big sing-along closer"
+        }
+      ],
+      "notes": "Loud and proud. Full band, no acoustic breaks.",
+      "createdAt": 1792125726709,
+      "updatedAt": 1792125726709
+    },
+    {
+      "id": "seed-crowd-pleasers",
+      "name": "Crowd Pleasers",
+      "date": "2026-04-12",
+      "venue": "Festival Main Stage",
+      "sets": [
+        {
+          "name": "Set 1",
+          "songIds": [
+            "seed-twist-and-shout",
+            "seed-brown-eyed-girl",
+            "seed-proud-mary",
+            "seed-hey-ya",
+            "seed-mr-brightside"
+          ]
+        },
+        {
+          "name": "Set 2",
+          "songIds": [
+            "seed-don-t-stop-believin",
+            "seed-use-somebody",
+            "seed-zombie",
+            "seed-knockin-on-heaven-s-door",
+            "seed-wonderwall"
+          ],
+          "notes": "Wonderwall last — let the crowd take over"
+        }
+      ],
+      "notes": "Festival slot, 45 min. Every song a hit, no downtime.",
+      "createdAt": 1792125726709,
+      "updatedAt": 1792125726709
+    },
+    {
+      "id": "seed-latin-vibes",
+      "name": "Latin & Feel-Good Vibes",
+      "date": "2026-04-19",
+      "venue": "Rooftop Bar",
+      "sets": [
+        {
+          "name": "Full Set",
+          "songIds": [
+            "seed-la-bamba",
+            "seed-three-little-birds",
+            "seed-i-m-yours",
+            "seed-riptide",
+            "seed-have-you-ever-seen-the-rain",
+            "seed-no-woman-no-cry"
+          ]
+        }
+      ],
+      "notes": "Sunset set. Keep it warm and groovy.",
+      "createdAt": 1792125726709,
+      "updatedAt": 1792125726709
+    }
+  ]
+}
